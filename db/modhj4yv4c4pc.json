@@ -1,0 +1,20 @@
+{
+  "id": "modhj4yv4c4pc",
+  "timestamp": "2026-04-24T22:31:32.870Z",
+  "timezone": "Asia/Jakarta",
+  "language": "id-ID",
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+  "stats": {
+    "originalSize": 14,
+    "obfuscatedSize": 650,
+    "ratio": "46.43x",
+    "transforms": [
+      "Variable Renaming",
+      "Constant Encoding",
+      "Dead Code Insertion",
+      "Control Flow Flattening",
+      "String Encryption"
+    ]
+  },
+  "script_url": "https://raw.githubusercontent.com/xyzazen/encluarz-db/main/scripts/modhj4yv4c4pc.lua"
+}
