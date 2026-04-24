@@ -1,0 +1,20 @@
+{
+  "id": "modihyo8qed3i",
+  "timestamp": "2026-04-24T22:58:37.640Z",
+  "timezone": "Asia/Jakarta",
+  "language": "id-ID",
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+  "stats": {
+    "originalSize": 100809,
+    "obfuscatedSize": 73551,
+    "ratio": "0.73x",
+    "transforms": [
+      "Variable Renaming",
+      "Constant Encoding",
+      "Dead Code Insertion",
+      "Control Flow Flattening",
+      "String Encryption"
+    ]
+  },
+  "script_url": "https://raw.githubusercontent.com/xyzazen/encluarz-db/main/scripts/modihyo8qed3i.lua"
+}
